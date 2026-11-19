@@ -1,0 +1,183 @@
+msgid ""
+msgstr "Project-Id-Version: AG Neovo Duplicate Post 1.1.0\nLanguage: zh_TW\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Clone"
+msgstr "複製"
+
+msgid "New Draft"
+msgstr "新增草稿"
+
+msgid "Copy to a new draft"
+msgstr "複製為新草稿"
+
+msgid "Copy to new drafts"
+msgstr "複製為新草稿"
+
+msgid "You cannot copy this item."
+msgstr "你沒有權限複製這個項目。"
+
+msgid "The draft could not be created."
+msgstr "無法建立草稿。"
+
+msgid "Select no more than 20 items at a time."
+msgstr "每次最多選擇20個項目。"
+
+msgid "Some drafts could not be created."
+msgstr "部分草稿無法建立。"
+
+msgid "%d draft created."
+msgid_plural "%d drafts created."
+msgstr[0] "已建立%d份草稿。"
+
+msgid "Available"
+msgstr "具備"
+
+msgid "Available actions"
+msgstr "操作方式"
+
+msgid "Back to top"
+msgstr "回到頁首"
+
+msgid "Bulk limit"
+msgstr "批次上限"
+
+msgid "Categories and tags"
+msgstr "分類與標籤"
+
+msgid "Check whether another plugin or customization removed the copy hooks."
+msgstr "請確認是否有其他外掛或自訂程式移除複製掛鉤。"
+
+msgid "Clone returns to the list; New Draft opens the new draft for editing. Both create a draft."
+msgstr "「複製」完成後回到清單；「新增草稿」完成後開啟新草稿編輯。兩者都會建立草稿。"
+
+msgid "Content and fields"
+msgstr "內容與欄位"
+
+msgid "Copy actions are not fully registered"
+msgstr "複製功能尚未完整註冊"
+
+msgid "Copy actions are registered"
+msgstr "複製功能已接管"
+
+msgid "Copy capability (copy_posts)"
+msgstr "複製權限（copy_posts）"
+
+msgid "Copy scope"
+msgstr "複製範圍"
+
+msgid "Create page drafts"
+msgstr "建立頁面草稿"
+
+msgid "Create post drafts"
+msgstr "建立文章草稿"
+
+msgid "Do not copy the password, existing comments, child pages, edit locks, old slugs, trash state, oEmbed cache, or rewrite and republish relations."
+msgstr "不複製密碼、既有留言、子頁面、編輯鎖、舊 slug、垃圾桶狀態、oEmbed 快取及重寫／重新發佈關聯。"
+
+msgid "Draft status, the current operator as author, a new date, and no inherited slug. The original URL is not reused."
+msgstr "狀態為草稿、作者為目前操作者、使用新日期，不沿用原 slug／網址。"
+
+msgid "Excluded information"
+msgstr "排除資料"
+
+msgid "For multiple items, select them and use Copy to new drafts. The classic editor and admin toolbar also provide a copy link when permitted."
+msgstr "多筆內容可勾選後使用「複製為新草稿」批次操作；具權限時，傳統編輯器與管理工具列也提供複製入口。"
+
+msgid "Images and media"
+msgstr "圖片與媒體"
+
+msgid "Instructions and recovery"
+msgstr "操作與回復說明"
+
+msgid "Keep applicable taxonomy terms. Retain the source language, but do not copy its translation group."
+msgstr "保留適用的分類／標籤與其他 taxonomy；保留來源語系，不複製翻譯群組。"
+
+msgid "Keep title, content, excerpt, ACF values and field references, featured image ID, template, post format, parent, menu order, and comment or ping settings."
+msgstr "保留標題、內文、摘要、ACF 值與欄位參照、特色圖片 ID、模板、文章格式、父頁面、選單順序，以及留言／引用開放設定。"
+
+msgid "Multilingual support"
+msgstr "多語系支援"
+
+msgid "New draft defaults"
+msgstr "新草稿預設值"
+
+msgid "Not available"
+msgstr "未具備"
+
+msgid "Open Pages"
+msgstr "前往頁面清單"
+
+msgid "Open Posts"
+msgstr "前往文章清單"
+
+msgid "Open the Posts or Pages list. Hover over the source item and choose Clone or New Draft."
+msgstr "進入文章或頁面清單，將滑鼠移至來源項目後，選擇「複製」或「新增草稿」。"
+
+msgid "Operation status"
+msgstr "運作狀態"
+
+msgid "Outside the scope"
+msgstr "不包含的功能"
+
+msgid "Page sections"
+msgstr "頁面區段"
+
+msgid "Plugin version"
+msgstr "外掛版本"
+
+msgid "Polylang detected: keep the source language without joining its translation group."
+msgstr "已偵測 Polylang：保留來源語系，不加入原翻譯群組。"
+
+msgid "Polylang is not available. Standard WordPress copying still works."
+msgstr "未載入 Polylang，仍可使用一般 WordPress 複製功能。"
+
+msgid "Posts and pages only. Every copy is a new draft."
+msgstr "只支援文章與頁面，每次複製都建立新草稿。"
+
+msgid "Preserved and excluded data"
+msgstr "保留／排除資料"
+
+msgid "Products, orders, coupons, ACF field groups, and rewrite or republish operations are not included. Products and ACF groups use their own native duplicate actions."
+msgstr "不包含商品、訂單、優惠券、ACF 欄位群組及重寫／重新發佈；商品與 ACF 群組沿用各自原生複製功能。"
+
+msgid "Read-only information. There are no settings to save, and viewing this page does not create drafts."
+msgstr "本頁為唯讀資訊，沒有需要儲存的設定，查看本頁不會建立草稿。"
+
+msgid "Reuse existing media IDs and files. No extra media files are created."
+msgstr "沿用既有媒體 ID 與檔案，不額外複製媒體實體檔。"
+
+msgid "Review the new draft, including ACF fields, terms, images, language and URL, before publishing. The source content remains unchanged."
+msgstr "發佈前檢查新草稿的 ACF、分類、圖片、語系與網址；來源內容保持不變。"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Standby: Yoast Duplicate Post is active"
+msgstr "待命：Yoast Duplicate Post 啟用中"
+
+msgid "Supported content"
+msgstr "支援內容"
+
+msgid "The post and page list actions and bulk handlers are available. Access is checked for each source item."
+msgstr "文章／頁面清單操作與批次處理已註冊，每篇來源仍會個別檢查權限。"
+
+msgid "These are basic capabilities for your current account. Each source must also pass read and edit permission checks; trash, auto-drafts, and pending rewrite copies are excluded."
+msgstr "以下是目前帳號的基本能力。每篇來源仍須通過讀取／編輯權限檢查，垃圾桶、自動草稿及待重新發佈副本均排除。"
+
+msgid "To return to Yoast, activate Yoast Duplicate Post first. This plugin then stands by. Keep existing drafts and source content; no data migration is needed."
+msgstr "若需回復 Yoast，先啟用 Yoast Duplicate Post，本外掛即進入待命；保留既有草稿與來源內容，不需搬移資料。"
+
+msgid "Up to %d items per batch."
+msgstr "每批最多 %d 筆。"
+
+msgid "Yoast provides the copy actions. This plugin will take over after Yoast is deactivated."
+msgstr "目前由 Yoast 提供複製功能；停用 Yoast 後，本外掛會自動接手。"
+
+msgid "You cannot view this page."
+msgstr "你沒有權限查看此頁面。"
+
+msgid "Your account lacks copy_posts. Ask an administrator to review the existing permissions; this page does not change roles or grant access."
+msgstr "目前帳號缺少 copy_posts，請管理員檢查既有權限；本頁不會修改角色或授權。"
+
+msgid "Your account permissions"
+msgstr "目前帳號權限"
